@@ -10,10 +10,10 @@ The goal of this project is to leverage the power of machine learning and data a
 
 The repository is organized as follows:
 
-- `data/`: This directory contains the historical data files used for training and testing the prediction model.
-- `notebooks/`: Here, you can find Jupyter notebooks that showcase the data preprocessing, model training, and evaluation processes.
-- `predictions/`: After the model is trained, the predicted results will be stored in this directory.
-- `src/`: This directory holds the source code for the project, including the implementation of the Naive Bayes algorithm.
+- `data/`: This directory contains the data files used for training and testing the prediction model.
+- `Extracting_data.py`: In this Python file are the code used to extract the data.
+- `Cleaning_Data.ipynb`: Here, you can find the Jupyter notebook that showcase the data preprocessing, model training, and evaluation processes.
+- `Soccer_World_Championship.ipynb`: Here, you can find the Jupiter notebook where is the model and the predictions of the cup.
 - `README.md`: You are here! This document provides an overview of the project and its structure.
 
 ## Contact
